@@ -1,7 +1,14 @@
 
-###About This repository
+##About This repository
 
 I started learning about laravel few days back and decided to play with it this repository will contain some of the demo project I built throughout my learning process.
+##Note
+
+Be sure to use command for importing node-modules to your project using this commands
+
+npm install
+npm run dev
+npm run watch
 
 This whole repository is under [MIT license](http://opensource.org/licenses/MIT) . Feel free to use anywhere for educational purpose.
 
